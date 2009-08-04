@@ -1,4 +1,4 @@
-[http://blog.jimmy.schementi.com/2009/07/ironruby-at-oscon-2009-mono-moonlight.html](http://blog.jimmy.schementi.com/2009/07/ironruby-at-oscon-2009-mono-moonlight.html)
+[Blog post](http://blog.jimmy.schementi.com/2009/07/ironruby-at-oscon-2009-mono-moonlight.html)
 
 Demo links:
 
@@ -8,7 +8,7 @@ Demo links:
 
 - [.NET Testing with test-spec](http://gist.github.com/153361)
 
-- [Scripting from C#](http://gist.github.com/153380) - [Full project](http://github.com/jschementi/orphanage/tree/master/simple-scripting)
+- [Scripting from C#](http://github.com/jschementi/orphanage/tree/master/simple-scripting) - [script](http://gist.github.com/153380)
 
 - [REPL editor](http://github.com/jschementi/repl-lib) - [script](http://gist.github.com/152872)
 
